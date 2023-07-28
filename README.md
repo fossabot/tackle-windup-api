@@ -263,6 +263,7 @@ This is useful for quickly execute some tests of the endpoints.
 The provided sample page (see below screenshot) is meant to ease the initial testing with the Tackle Windup API.  
 
 ![Windup Sample Page](docs/images/windup-sample-page.png?raw=true "Windup Sample Page")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle-windup-api.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle-windup-api?ref=badge_shield)
 
 The sample page has two options for testing the API:
 
@@ -280,3 +281,7 @@ Then, once a new application has been created, the `Analyze` command -for trigge
 
 ## Code of Conduct
 Refer to Konveyor's Code of Conduct [here](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle-windup-api.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkonveyor%2Ftackle-windup-api?ref=badge_large)
